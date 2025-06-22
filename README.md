@@ -15,7 +15,6 @@ A professional Django-based web application for generating QR codes for restaura
 
  Layer         - Technology         
  Backend       - Django (Python)    
- Frontend      - HTML, CSS (Bootstrap) 
- 
- QR Generation - qrcode , Pillow 
- Database      - SQLite (default)   
+ Frontend      - HTML, CSS (Bootstrap)  
+  QR Generation - qrcode , Pillow 
+  Database      - SQLite (default)   
